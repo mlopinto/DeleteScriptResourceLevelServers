@@ -4,6 +4,6 @@ This script is used to delete a resource level configuration for Defender for Se
 Here are the instuctions on how to do this on a server by server basis.
 https://learn.microsoft.com/en-us/azure/defender-for-cloud/tutorial-enable-servers-plan#remove-the-resource-level-configuration-using-the-rest-api
 
-This script will automate all servers within the subscription in an Azure tenant.
+This script will automate all servers (both Azure or ARC enabled) within the subscription in an Azure tenant.
 
 Much appreciate to Mike Huffmyer (original script writer): Github Alias - @Mhuffmyer
