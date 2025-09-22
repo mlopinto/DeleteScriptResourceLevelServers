@@ -6,4 +6,4 @@ https://learn.microsoft.com/en-us/azure/defender-for-cloud/tutorial-enable-serve
 
 This script will automate all servers within the subscription in an Azure tenant.
 
-Much appreciate to Mike Huffmyer (original script writer): Github Alias - Mhuffmyer
+Much appreciate to Mike Huffmyer (original script writer): Github Alias - @Mhuffmyer
